@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+	<link href="https://unpkg.com/bootstrap-table@1.15.5/dist/bootstrap-table.min.css" rel="stylesheet">
+	<script src="https://unpkg.com/bootstrap-table@1.15.5/dist/bootstrap-table.min.js"></script>
+	<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+
+</head>
+<body>
+<script type="text/javascript">
+	var data;
+$(function () {
+
+	//document.getElementsByTagName("table")[0].setAttribute('data-height',$(window).height()); 
+    $.getJSON("concall_Q3FY23.json", function(json){
+       data = json;
+       $('#table').bootstrapTable({
+
+          data: data
+       });
+
+    });
+
+</script>
+
+<div class=" col-centered  ">
+
+		<table  data-sort-name="priority" class="table table-bordered  table-hover col-lg-11 container-fluid" data-sort-order="asc" data-search="true" id="table" >
+		    <thead   class="thead-color">
+		    <tr >
+		        <th class=" " data-width="75"  data-field="Scrip_Name" data-sortable="true">Company Name</th>  
+		        <th class=" " data-width="125"  data-field="Mktcap" data-sortable="true">MarketCap</th>  
+		        <th class=" " data-width="75"  data-field="INDUSTRY" data-sortable="true">Industry</th>
+		        <th class="	" data-width="250"  data-field="scrip_id" data-sortable="true">Company Code</th> 
+		        <th class=" " data-width="100"  data-field="ConcallLink" >Concall Link</th>
+		    </tr>
+		    </thead>
+		    <tbody></tbody>
+		</table>
+</div>
+<hr />
+</body>
+</html>
