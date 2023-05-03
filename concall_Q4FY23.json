@@ -1,179 +1,43 @@
 [
   {
-    "Scrip_Name": "TALBROS AUTOMOTIVE COMPONENTS LTD.",
-    "INDUSTRY": "Auto Components & Equipments",
-    "scrip_id": "TALBROAUTO",
-    "Mktcap": "600.92",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/188a439a-1bcb-41e8-9aa5-438f91d8f397.pdf",
-    "scrip_cd": 505160
+    "Scrip_Name": "WELSPUN INDIA LTD.",
+    "INDUSTRY": "Other Textile Products",
+    "scrip_id": "WELSPUNIND",
+    "Mktcap": "7929.01",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/379bec4f-96da-469b-b0e3-dec1a77e0e19.pdf",
+    "scrip_cd": 514162
   },
   {
-    "Scrip_Name": "Shriram Finance Ltd",
-    "INDUSTRY": "Non Banking Financial Company (NBFC)",
-    "scrip_id": "SHRIRAMFIN",
-    "Mktcap": "49898.05",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8ccd9682-a64a-4423-a4d9-e96a6f4f017d.pdf",
-    "scrip_cd": 511218
-  },
-  {
-    "Scrip_Name": "HATSUN AGRO PRODUCT LTD.",
-    "INDUSTRY": "Dairy Products",
-    "scrip_id": "HATSUN",
-    "Mktcap": "18812.20",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bbd56213-337e-42c7-9646-3762d259630d.pdf",
-    "scrip_cd": 531531
-  },
-  {
-    "Scrip_Name": "HCL TECHNOLOGIES LTD.",
-    "INDUSTRY": "Computers - Software & Consulting",
-    "scrip_id": "HCLTECH",
-    "Mktcap": "288638.99",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c037df4d-c831-49d4-a905-18ab176a1921.pdf",
-    "scrip_cd": 532281
-  },
-  {
-    "Scrip_Name": "TATA COFFEE LTD.",
-    "INDUSTRY": "Tea & Coffee",
-    "scrip_id": "TATACOFFEE",
-    "Mktcap": "4121.09",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/17f30cda-83fb-41ee-8ad3-9416f46a47a1.pdf",
-    "scrip_cd": 532301
-  },
-  {
-    "Scrip_Name": "MAHINDRA LIFESPACE DEVELOPERS LTD.",
+    "Scrip_Name": "Anant Raj Limited-$",
     "INDUSTRY": "Residential- Commercial Projects",
-    "scrip_id": "MAHLIFE",
-    "Mktcap": "5742.79",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/50390d9b-3773-4254-b537-445177c90731.pdf",
-    "scrip_cd": 532313
+    "scrip_id": "ANANTRAJ",
+    "Mktcap": "4590.82",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b5afad9f-4975-467a-9b29-9072b19938c0.pdf",
+    "scrip_cd": 515055
   },
   {
-    "Scrip_Name": "BANK OF MAHARASHTRA",
-    "INDUSTRY": "Public Sector Bank",
-    "scrip_id": "MAHABANK",
-    "Mktcap": "20332.83",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/85f9d5b2-1ad1-4f3a-9f8e-79c25c8d08d5.pdf",
-    "scrip_cd": 532525
+    "Scrip_Name": "Yash Pakka Ltd-$",
+    "INDUSTRY": "Paper & Paper Products",
+    "scrip_id": "YASHPAKKA",
+    "Mktcap": "414.56",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/610cf6a8-6d8e-448d-8959-14f72fcdb8da.pdf",
+    "scrip_cd": 516030
   },
   {
-    "Scrip_Name": "TATA CONSULTANCY SERVICES LTD.",
-    "INDUSTRY": "Computers - Software & Consulting",
-    "scrip_id": "TCS",
-    "Mktcap": "1176750.92",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0a54627e-6d57-4e58-a672-5f15cbeb3f7e.pdf",
-    "scrip_cd": 532540
+    "Scrip_Name": "VISHNU CHEMICALS LTD.",
+    "INDUSTRY": "Specialty Chemicals",
+    "scrip_id": "VISHNU",
+    "Mktcap": "1809.52",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a6891d75-f88f-4901-ae4b-07c064659db1.pdf",
+    "scrip_cd": 516072
   },
   {
-    "Scrip_Name": "DWARIKESH SUGAR INDUSTRIES LTD.",
-    "INDUSTRY": "Sugar",
-    "scrip_id": "DWARKESH",
-    "Mktcap": "1725.78",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/97cb20c3-d9b1-4121-b01a-12c5cfcfbc80.pdf",
-    "scrip_cd": 532610
-  },
-  {
-    "Scrip_Name": "DWARIKESH SUGAR INDUSTRIES LTD.",
-    "INDUSTRY": "Sugar",
-    "scrip_id": "DWARKESH",
-    "Mktcap": "1725.78",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a72d9577-7aee-41a1-90a9-b78a67a2aa6d.pdf",
-    "scrip_cd": 532610
-  },
-  {
-    "Scrip_Name": "ICICI Prudential Life Insurance Company Ltd",
-    "INDUSTRY": "Life Insurance",
-    "scrip_id": "ICICIPRULI",
-    "Mktcap": "62477.43",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e2e4910f-3862-4e61-8b6a-32fdcbab00d4.pdf",
-    "scrip_cd": 540133
-  },
-  {
-    "Scrip_Name": "Tejas Networks Ltd",
-    "INDUSTRY": "Telecom -  Equipment & Accessories",
-    "scrip_id": "TEJASNET",
-    "Mktcap": "11092.27",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/10909718-071f-4644-bff4-7e991b44fd7f.pdf",
-    "scrip_cd": 540595
-  },
-  {
-    "Scrip_Name": "GTPL Hathway Ltd",
-    "INDUSTRY": "TV Broadcasting & Software Production",
-    "scrip_id": "GTPL",
-    "Mktcap": "1181.09",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/df20acd3-dc12-4f94-9fcb-c85860b6f6b4.pdf",
-    "scrip_cd": 540602
-  },
-  {
-    "Scrip_Name": "ICICI Lombard General Insurance Company Ltd",
-    "INDUSTRY": "General Insurance",
-    "scrip_id": "ICICIGI",
-    "Mktcap": "53054.55",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/87679f05-67d5-4519-9ab4-b4a217ba23b3.pdf",
-    "scrip_cd": 540716
-  },
-  {
-    "Scrip_Name": "Mahindra Logistics Ltd",
-    "INDUSTRY": "Logistics Solution Provider",
-    "scrip_id": "MAHLOG",
-    "Mktcap": "2666.42",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/833abdc8-9644-48b6-af43-c50f4aa53fd5.pdf",
-    "scrip_cd": 540768
-  },
-  {
-    "Scrip_Name": "ICICI Securities Ltd",
-    "INDUSTRY": "Stockbroking & Allied",
-    "scrip_id": "ISEC",
-    "Mktcap": "14269.17",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/11f92a99-ccb8-48a5-bbf5-77f79fd93c32.pdf",
-    "scrip_cd": 541179
-  },
-  {
-    "Scrip_Name": "HINDUSTAN ZINC LTD.",
-    "INDUSTRY": "Zinc",
-    "scrip_id": "HINDZINC",
-    "Mktcap": "132886.28",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3abc41cc-5db8-496a-bf0e-b93cccf03588.pdf",
-    "scrip_cd": 500188
-  },
-  {
-    "Scrip_Name": "INFOSYS LTD.",
-    "INDUSTRY": "Computers - Software & Consulting",
-    "scrip_id": "INFY",
-    "Mktcap": "519662.10",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c94d45c5-a44a-49d9-89af-6ef6532c4a30.pdf",
-    "scrip_cd": 500209
-  },
-  {
-    "Scrip_Name": "RELIANCE INDUSTRIES LTD.",
-    "INDUSTRY": "Refineries & Marketing",
-    "scrip_id": "RELIANCE",
-    "Mktcap": "1637408.27",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9c8c3f07-883a-476b-8fb2-8fe74078e9f5.pdf",
-    "scrip_cd": 500325
-  },
-  {
-    "Scrip_Name": "SURYA ROSHNI LTD.",
-    "INDUSTRY": "Iron & Steel Products",
-    "scrip_id": "SURYAROSNI",
-    "Mktcap": "4341.84",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7faa5a2b-62ad-48a1-8a8a-437a96c2d426.pdf",
-    "scrip_cd": 500336
-  },
-  {
-    "Scrip_Name": "RALLIS INDIA LTD.",
-    "INDUSTRY": "Pesticides & Agrochemicals",
-    "scrip_id": "RALLIS",
-    "Mktcap": "3684.21",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6739eff5-91e6-4002-918c-637e18cb322f.pdf",
-    "scrip_cd": 500355
-  },
-  {
-    "Scrip_Name": "SUPREME PETROCHEM LTD.",
-    "INDUSTRY": "Petrochemicals",
-    "scrip_id": "SPLPETRO",
-    "Mktcap": "7196.34",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3fdca516-b52f-4dac-b087-87a554d9eabf.pdf",
-    "scrip_cd": 500405
+    "Scrip_Name": "HBL POWER SYSTEMS LTD.-$",
+    "INDUSTRY": "Auto Components & Equipments",
+    "scrip_id": "HBLPOWER",
+    "Mktcap": "3116.23",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b192f780-8fd1-41ce-9f82-75d7370d9787.pdf",
+    "scrip_cd": 517271
   },
   {
     "Scrip_Name": "RAJRATAN GLOBAL WIRE LTD.",
@@ -192,76 +56,356 @@
     "scrip_cd": 517522
   },
   {
-    "Scrip_Name": "RACL Geartech Ltd",
-    "INDUSTRY": "Auto Components & Equipments",
-    "scrip_id": "RACLGEAR",
-    "Mktcap": "1020.64",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/94d4dc84-324d-4d00-81ee-d3150b3eabd0.pdf",
-    "scrip_cd": 520073
+    "Scrip_Name": "KEI INDUSTRIES LTD.",
+    "INDUSTRY": "Cables - Electricals",
+    "scrip_id": "KEI",
+    "Mktcap": "17110.86",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6ac689ae-9c0e-46a4-9cc9-26784ce9d2f1.pdf",
+    "scrip_cd": 517569
   },
   {
-    "Scrip_Name": "RACL Geartech Ltd",
-    "INDUSTRY": "Auto Components & Equipments",
-    "scrip_id": "RACLGEAR",
-    "Mktcap": "1020.64",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cded3bbe-282b-4c86-b814-bd93075ceff1.pdf",
-    "scrip_cd": 520073
-  },
-  {
-    "Scrip_Name": "MASTEK LTD.",
+    "Scrip_Name": "LTIMindtree Ltd",
     "INDUSTRY": "Computers - Software & Consulting",
-    "scrip_id": "MASTEK",
-    "Mktcap": "5245.60",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/20f1b153-a6dc-459f-b4f9-25d408a1eeb4.pdf",
-    "scrip_cd": 523704
+    "scrip_id": "LTIM",
+    "Mktcap": "130732.96",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1206435e-93f8-48f0-a37e-8eaac76cdb75.pdf",
+    "scrip_cd": 540005
   },
   {
-    "Scrip_Name": "Poonawalla Fincorp Ltd",
-    "INDUSTRY": "Non Banking Financial Company (NBFC)",
-    "scrip_id": "POONAWALLA",
-    "Mktcap": "24804.71",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f31fe056-a170-4f01-9de6-4421c8887f91.pdf",
-    "scrip_cd": 524000
+    "Scrip_Name": "RBL Bank Ltd",
+    "INDUSTRY": "Private Sector Bank",
+    "scrip_id": "RBLBANK",
+    "Mktcap": "9698.01",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c5010158-e4ae-46e6-816b-f9cbd44e1b98.pdf",
+    "scrip_cd": 540065
   },
   {
-    "Scrip_Name": "OK PLAY INDIA LTD.",
-    "INDUSTRY": "Leisure Products",
-    "scrip_id": "OKPLA",
-    "Mktcap": "194.85",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a3aa4126-5f73-4d9e-b797-c6be5c937626.pdf",
-    "scrip_cd": 526415
+    "Scrip_Name": "ICICI Prudential Life Insurance Company Ltd",
+    "INDUSTRY": "Life Insurance",
+    "scrip_id": "ICICIPRULI",
+    "Mktcap": "62477.43",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e2e4910f-3862-4e61-8b6a-32fdcbab00d4.pdf",
+    "scrip_cd": 540133
   },
   {
-    "Scrip_Name": "OK PLAY INDIA LTD.",
-    "INDUSTRY": "Leisure Products",
-    "scrip_id": "OKPLA",
-    "Mktcap": "194.85",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f2ab7bc5-7fe1-477f-b115-ba842f39521e.pdf",
-    "scrip_cd": 526415
+    "Scrip_Name": "Varun Beverages Ltd",
+    "INDUSTRY": "Other Beverages",
+    "scrip_id": "VBL",
+    "Mktcap": "93783.19",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/697f5a3c-56bc-4394-9ca6-7ed01663d188.pdf",
+    "scrip_cd": 540180
   },
   {
-    "Scrip_Name": "JUST DIAL LTD.",
-    "INDUSTRY": "Internet & Catalogue Retail",
-    "scrip_id": "JUSTDIAL",
-    "Mktcap": "5689.11",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d664d7e4-370f-4cb3-a25d-bc0a861b5912.pdf",
-    "scrip_cd": 535648
+    "Scrip_Name": "Laurus Labs Ltd",
+    "INDUSTRY": "Pharmaceuticals",
+    "scrip_id": "LAURUSLABS",
+    "Mktcap": "16571.60",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e7c12c7a-b883-4a4b-a6e2-2b302c2357b1.pdf",
+    "scrip_cd": 540222
   },
   {
-    "Scrip_Name": "Nath Bio-Genes (India) Ltd",
-    "INDUSTRY": "Other Agricultural Products",
-    "scrip_id": "NATHBIOGEN",
-    "Mktcap": "312.81",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1f2e330e-cdde-4014-b642-3d686352636c.pdf",
-    "scrip_cd": 537291
+    "Scrip_Name": "Laurus Labs Ltd",
+    "INDUSTRY": "Pharmaceuticals",
+    "scrip_id": "LAURUSLABS",
+    "Mktcap": "16571.60",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5f1905cd-e683-4ee8-bf40-5e9147593a34.pdf",
+    "scrip_cd": 540222
   },
   {
-    "Scrip_Name": "Star Housing Finance Ltd",
+    "Scrip_Name": "Tejas Networks Ltd",
+    "INDUSTRY": "Telecom -  Equipment & Accessories",
+    "scrip_id": "TEJASNET",
+    "Mktcap": "11092.27",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/10909718-071f-4644-bff4-7e991b44fd7f.pdf",
+    "scrip_cd": 540595
+  },
+  {
+    "Scrip_Name": "GTPL Hathway Ltd",
+    "INDUSTRY": "TV Broadcasting & Software Production",
+    "scrip_id": "GTPL",
+    "Mktcap": "1181.09",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/df20acd3-dc12-4f94-9fcb-c85860b6f6b4.pdf",
+    "scrip_cd": 540602
+  },
+  {
+    "Scrip_Name": "AU Small Finance Bank Ltd",
+    "INDUSTRY": "Other Bank",
+    "scrip_id": "AUBANK",
+    "Mktcap": "44255.20",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b2bc76a4-3176-443d-beaf-4239f4bf417a.pdf",
+    "scrip_cd": 540611
+  },
+  {
+    "Scrip_Name": "AU Small Finance Bank Ltd",
+    "INDUSTRY": "Other Bank",
+    "scrip_id": "AUBANK",
+    "Mktcap": "44255.20",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/34622254-f1f5-4fa2-ace3-a65852978008.pdf",
+    "scrip_cd": 540611
+  },
+  {
+    "Scrip_Name": "ICICI Lombard General Insurance Company Ltd",
+    "INDUSTRY": "General Insurance",
+    "scrip_id": "ICICIGI",
+    "Mktcap": "53054.55",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b95ffc51-8e5f-427e-9f94-4360eb0357fc.pdf",
+    "scrip_cd": 540716
+  },
+  {
+    "Scrip_Name": "ICICI Lombard General Insurance Company Ltd",
+    "INDUSTRY": "General Insurance",
+    "scrip_id": "ICICIGI",
+    "Mktcap": "53054.55",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/87679f05-67d5-4519-9ab4-b4a217ba23b3.pdf",
+    "scrip_cd": 540716
+  },
+  {
+    "Scrip_Name": "ICICI Lombard General Insurance Company Ltd",
+    "INDUSTRY": "General Insurance",
+    "scrip_id": "ICICIGI",
+    "Mktcap": "53054.55",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/87a7ff91-afe5-41df-b3f4-f26d9b47bb8a.pdf",
+    "scrip_cd": 540716
+  },
+  {
+    "Scrip_Name": "ICICI Lombard General Insurance Company Ltd",
+    "INDUSTRY": "General Insurance",
+    "scrip_id": "ICICIGI",
+    "Mktcap": "53054.55",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/43ef548a-0178-4f66-b4cc-0debd8e886cf.pdf",
+    "scrip_cd": 540716
+  },
+  {
+    "Scrip_Name": "SBI Life Insurance Company Ltd",
+    "INDUSTRY": "Life Insurance",
+    "scrip_id": "SBILIFE",
+    "Mktcap": "113961.88",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/50aa9a12-2360-4e01-b58c-d2379e49a920.pdf",
+    "scrip_cd": 540719
+  },
+  {
+    "Scrip_Name": "Nippon Life India Asset Management Ltd",
+    "INDUSTRY": "Asset Management Company",
+    "scrip_id": "NAM-INDIA",
+    "Mktcap": "14828.77",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c3858578-c2d7-4354-9754-4ebb686f0048.pdf",
+    "scrip_cd": 540767
+  },
+  {
+    "Scrip_Name": "Nippon Life India Asset Management Ltd",
+    "INDUSTRY": "Asset Management Company",
+    "scrip_id": "NAM-INDIA",
+    "Mktcap": "14828.77",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3840e350-54fc-42c6-97a9-3d0e67971224.pdf",
+    "scrip_cd": 540767
+  },
+  {
+    "Scrip_Name": "Mahindra Logistics Ltd",
+    "INDUSTRY": "Logistics Solution Provider",
+    "scrip_id": "MAHLOG",
+    "Mktcap": "2666.42",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/833abdc8-9644-48b6-af43-c50f4aa53fd5.pdf",
+    "scrip_cd": 540768
+  },
+  {
+    "Scrip_Name": "Mahindra Logistics Ltd",
+    "INDUSTRY": "Logistics Solution Provider",
+    "scrip_id": "MAHLOG",
+    "Mktcap": "2666.42",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/052a25ba-94d0-432d-9c9e-279ad9da561e.pdf",
+    "scrip_cd": 540768
+  },
+  {
+    "Scrip_Name": "Mahindra Logistics Ltd",
+    "INDUSTRY": "Logistics Solution Provider",
+    "scrip_id": "MAHLOG",
+    "Mktcap": "2666.42",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/86843479-7677-4218-8a45-5e36c381221d.pdf",
+    "scrip_cd": 540768
+  },
+  {
+    "Scrip_Name": "5paisa Capital Ltd",
+    "INDUSTRY": "Stockbroking & Allied",
+    "scrip_id": "5PAISA",
+    "Mktcap": "944.19",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/84b19d30-c708-4c1b-8eec-26b11ec6a8d6.pdf",
+    "scrip_cd": 540776
+  },
+  {
+    "Scrip_Name": "HDFC Life Insurance Company Ltd",
+    "INDUSTRY": "Life Insurance",
+    "scrip_id": "HDFCLIFE",
+    "Mktcap": "113864.26",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c0e3c5a7-2bfe-4719-8a2c-f057630ef071.pdf",
+    "scrip_cd": 540777
+  },
+  {
+    "Scrip_Name": "Newgen Software Technologies Ltd",
+    "INDUSTRY": "Computers - Software & Consulting",
+    "scrip_id": "NEWGEN",
+    "Mktcap": "3511.78",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5a1f9508-a7fc-4fdb-9316-3675761600c4.pdf",
+    "scrip_cd": 540900
+  },
+  {
+    "Scrip_Name": "ICICI Securities Ltd",
+    "INDUSTRY": "Stockbroking & Allied",
+    "scrip_id": "ISEC",
+    "Mktcap": "14269.17",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/11f92a99-ccb8-48a5-bbf5-77f79fd93c32.pdf",
+    "scrip_cd": 541179
+  },
+  {
+    "Scrip_Name": "ICICI Securities Ltd",
+    "INDUSTRY": "Stockbroking & Allied",
+    "scrip_id": "ISEC",
+    "Mktcap": "14269.17",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4d183660-69cb-4ada-a3df-a993dccd7744.pdf",
+    "scrip_cd": 541179
+  },
+  {
+    "Scrip_Name": "TCNS Clothing Co. Ltd",
+    "INDUSTRY": "Garments & Apparels",
+    "scrip_id": "TCNSBRANDS",
+    "Mktcap": "3034.64",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8decd9c0-aee6-419c-bbb0-57300f2daba3.pdf",
+    "scrip_cd": 541700
+  },
+  {
+    "Scrip_Name": "HDFC Asset Management Company Ltd",
+    "INDUSTRY": "Asset Management Company",
+    "scrip_id": "HDFCAMC",
+    "Mktcap": "37674.80",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ff25b190-8993-4bb8-b041-ac537963be01.pdf",
+    "scrip_cd": 541729
+  },
+  {
+    "Scrip_Name": "Dalmia Bharat Ltd",
+    "INDUSTRY": "Cement & Cement Products",
+    "scrip_id": "DALBHARAT",
+    "Mktcap": "37405.14",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/35375fc6-44d5-49cb-b1bf-0e5f3f815ab4.pdf",
+    "scrip_cd": 542216
+  },
+  {
+    "Scrip_Name": "Dalmia Bharat Ltd",
+    "INDUSTRY": "Cement & Cement Products",
+    "scrip_id": "DALBHARAT",
+    "Mktcap": "37405.14",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/356a0ea0-b896-4e7a-b265-88aa0ba45f88.pdf",
+    "scrip_cd": 542216
+  },
+  {
+    "Scrip_Name": "Ritco Logistics Ltd",
+    "INDUSTRY": "Logistics Solution Provider",
+    "scrip_id": "RITCO",
+    "Mktcap": "455.14",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4994680c-bf01-4394-967e-ac8bf7eed625.pdf",
+    "scrip_cd": 542383
+  },
+  {
+    "Scrip_Name": "Humming Bird Education Ltd",
+    "INDUSTRY": "Education",
+    "scrip_id": "HBEL",
+    "Mktcap": "15.36",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/651640cb-13d6-4d05-9b35-5c12177a183c.pdf",
+    "scrip_cd": 542592
+  },
+  {
+    "Scrip_Name": "TALBROS AUTOMOTIVE COMPONENTS LTD.",
+    "INDUSTRY": "Auto Components & Equipments",
+    "scrip_id": "TALBROAUTO",
+    "Mktcap": "600.92",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/188a439a-1bcb-41e8-9aa5-438f91d8f397.pdf",
+    "scrip_cd": 505160
+  },
+  {
+    "Scrip_Name": "KIRLOSKAR PNEUMATIC CO.LTD.",
+    "INDUSTRY": "Compressors- Pumps & Diesel Engines",
+    "scrip_id": "KIRLPNU",
+    "Mktcap": "3837.04",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/dbf7e9a7-38ca-45fb-80ee-0ef8756c3350.pdf",
+    "scrip_cd": 505283
+  },
+  {
+    "Scrip_Name": "ELECON ENGINEERING CO.LTD.",
+    "INDUSTRY": "Industrial Products",
+    "scrip_id": "ELECON",
+    "Mktcap": "4862.75",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1a3a912a-6d33-40d3-b566-df3f15719945.pdf",
+    "scrip_cd": 505700
+  },
+  {
+    "Scrip_Name": "ELECON ENGINEERING CO.LTD.",
+    "INDUSTRY": "Industrial Products",
+    "scrip_id": "ELECON",
+    "Mktcap": "4862.75",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c1700a0b-cac7-4986-aaba-5f4476fc4770.pdf",
+    "scrip_cd": 505700
+  },
+  {
+    "Scrip_Name": "SOM DISTILLERIES & BREWERIES LTD.",
+    "INDUSTRY": "Breweries & Distilleries",
+    "scrip_id": "SDBL",
+    "Mktcap": "1295.66",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c2ba636a-3695-495b-9c3b-908e1cffd193.pdf",
+    "scrip_cd": 507514
+  },
+  {
+    "Scrip_Name": "WIPRO LTD.",
+    "INDUSTRY": "Computers - Software & Consulting",
+    "scrip_id": "WIPRO",
+    "Mktcap": "211373.41",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7bc5af06-3488-4992-8e45-f32de629e14c.pdf",
+    "scrip_cd": 507685
+  },
+  {
+    "Scrip_Name": "WIPRO LTD.",
+    "INDUSTRY": "Computers - Software & Consulting",
+    "scrip_id": "WIPRO",
+    "Mktcap": "211373.41",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4e552405-4732-49be-b5a4-7060cf6cc31b.pdf",
+    "scrip_cd": 507685
+  },
+  {
+    "Scrip_Name": "Huhtamaki India Ltd",
+    "INDUSTRY": "Packaging",
+    "scrip_id": "HUHTAMAKI",
+    "Mktcap": "1718.12",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/42e662c7-2634-4f06-8242-240d57e9204c.pdf",
+    "scrip_cd": 509820
+  },
+  {
+    "Scrip_Name": "CAN FIN HOMES LTD.",
     "INDUSTRY": "Housing Finance Company",
-    "scrip_id": "STARHFL",
-    "Mktcap": "373.60",
-    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/427ed909-c751-4ddd-aaac-eb815eb3ac32.pdf",
-    "scrip_cd": 539017
+    "scrip_id": "CANFINHOME",
+    "Mktcap": "8212.95",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0082d20a-3261-4003-896a-38621cbd4184.pdf",
+    "scrip_cd": 511196
+  },
+  {
+    "Scrip_Name": "CAN FIN HOMES LTD.",
+    "INDUSTRY": "Housing Finance Company",
+    "scrip_id": "CANFINHOME",
+    "Mktcap": "8212.95",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8ee4b84d-5f7f-4b62-944d-7dc0e58ab010.pdf",
+    "scrip_cd": 511196
+  },
+  {
+    "Scrip_Name": "CAN FIN HOMES LTD.",
+    "INDUSTRY": "Housing Finance Company",
+    "scrip_id": "CANFINHOME",
+    "Mktcap": "8212.95",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2b94e46b-4d33-47be-a787-95062612c3c8.pdf",
+    "scrip_cd": 511196
+  },
+  {
+    "Scrip_Name": "Shriram Finance Ltd",
+    "INDUSTRY": "Non Banking Financial Company (NBFC)",
+    "scrip_id": "SHRIRAMFIN",
+    "Mktcap": "49898.05",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8ccd9682-a64a-4423-a4d9-e96a6f4f017d.pdf",
+    "scrip_cd": 511218
   },
   {
     "Scrip_Name": "KPIT Technologies Ltd",
@@ -272,12 +416,92 @@
     "scrip_cd": 542651
   },
   {
+    "Scrip_Name": "KPIT Technologies Ltd",
+    "INDUSTRY": "Computers - Software & Consulting",
+    "scrip_id": "KPITTECH",
+    "Mktcap": "25128.02",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6d1953af-e8d3-433d-a9cc-d3f4ea076290.pdf",
+    "scrip_cd": 542651
+  },
+  {
+    "Scrip_Name": "IndiaMART InterMESH Ltd",
+    "INDUSTRY": "Internet & Catalogue Retail",
+    "scrip_id": "INDIAMART",
+    "Mktcap": "16422.12",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e4d1b690-a5a5-4091-9904-3e6e13668d94.pdf",
+    "scrip_cd": 542726
+  },
+  {
+    "Scrip_Name": "IndiaMART InterMESH Ltd",
+    "INDUSTRY": "Internet & Catalogue Retail",
+    "scrip_id": "INDIAMART",
+    "Mktcap": "16422.12",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4ce83b01-67f1-4051-b454-1c46abc53115.pdf",
+    "scrip_cd": 542726
+  },
+  {
     "Scrip_Name": "Sterling and Wilson Renewable Energy Ltd",
     "INDUSTRY": "Civil Construction",
     "scrip_id": "SWSOLAR",
     "Mktcap": "5632.00",
     "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a25eca97-173b-4245-a944-250cd08f3933.pdf",
     "scrip_cd": 542760
+  },
+  {
+    "Scrip_Name": "360 ONE WAM LTD",
+    "INDUSTRY": "Other Financial Services",
+    "scrip_id": "360ONE",
+    "Mktcap": "14946.86",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7b4e4b91-cbd2-4850-90a2-532fa12cdab5.pdf",
+    "scrip_cd": 542772
+  },
+  {
+    "Scrip_Name": "360 ONE WAM LTD",
+    "INDUSTRY": "Other Financial Services",
+    "scrip_id": "360ONE",
+    "Mktcap": "14946.86",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3219f7ab-3564-4f31-ad8d-01ca861ca1f5.pdf",
+    "scrip_cd": 542772
+  },
+  {
+    "Scrip_Name": "IIFL Securities Ltd",
+    "INDUSTRY": "Stockbroking & Allied",
+    "scrip_id": "IIFLSEC",
+    "Mktcap": "1793.46",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/367402aa-1178-4971-bd5a-93e57f4c274f.pdf",
+    "scrip_cd": 542773
+  },
+  {
+    "Scrip_Name": "IIFL Securities Ltd",
+    "INDUSTRY": "Stockbroking & Allied",
+    "scrip_id": "IIFLSEC",
+    "Mktcap": "1793.46",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7d30e726-d672-4720-ac6a-e70cc22dbfec.pdf",
+    "scrip_cd": 542773
+  },
+  {
+    "Scrip_Name": "CSB Bank Ltd",
+    "INDUSTRY": "Private Sector Bank",
+    "scrip_id": "CSBBANK",
+    "Mktcap": "4848.93",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ce1ae205-0d2e-43c5-8476-f0401f2f0297.pdf",
+    "scrip_cd": 542867
+  },
+  {
+    "Scrip_Name": "SBI Cards and Payment Services Ltd",
+    "INDUSTRY": "Non Banking Financial Company (NBFC)",
+    "scrip_id": "SBICARD",
+    "Mktcap": "73022.75",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/340df9e8-cc20-4fda-9b66-3b92e4b8440a.pdf",
+    "scrip_cd": 543066
+  },
+  {
+    "Scrip_Name": "Rossari Biotech Ltd",
+    "INDUSTRY": "Specialty Chemicals",
+    "scrip_id": "ROSSARI",
+    "Mktcap": "3796.90",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/268e965f-0df6-467f-a9ff-4948ff025c16.pdf",
+    "scrip_cd": 543213
   },
   {
     "Scrip_Name": "Angel One Ltd",
@@ -296,6 +520,22 @@
     "scrip_cd": 543235
   },
   {
+    "Scrip_Name": "Angel One Ltd",
+    "INDUSTRY": "Stockbroking & Allied",
+    "scrip_id": "ANGELONE",
+    "Mktcap": "10255.21",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/59ac5ed6-a662-48b6-acfb-239c71ac1e84.pdf",
+    "scrip_cd": 543235
+  },
+  {
+    "Scrip_Name": "Equitas Small Finance Bank Ltd",
+    "INDUSTRY": "Other Bank",
+    "scrip_id": "EQUITASBNK",
+    "Mktcap": "7654.86",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/84182cd9-3404-4a16-a982-71f014198a11.pdf",
+    "scrip_cd": 543243
+  },
+  {
     "Scrip_Name": "Macrotech Developers Ltd",
     "INDUSTRY": "Residential- Commercial Projects",
     "scrip_id": "LODHA",
@@ -304,11 +544,27 @@
     "scrip_cd": 543287
   },
   {
+    "Scrip_Name": "Macrotech Developers Ltd",
+    "INDUSTRY": "Residential- Commercial Projects",
+    "scrip_id": "LODHA",
+    "Mktcap": "44699.51",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/267f97e3-8c1d-4244-bbeb-0399933a18b8.pdf",
+    "scrip_cd": 543287
+  },
+  {
     "Scrip_Name": "Glenmark Life Sciences Ltd",
     "INDUSTRY": "Pharmaceuticals",
     "scrip_id": "GLS",
     "Mktcap": "6176.59",
     "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ec41a636-1e55-4541-8330-ce401d102453.pdf",
+    "scrip_cd": 543322
+  },
+  {
+    "Scrip_Name": "Glenmark Life Sciences Ltd",
+    "INDUSTRY": "Pharmaceuticals",
+    "scrip_id": "GLS",
+    "Mktcap": "6176.59",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/429e2790-dbf6-4048-a36c-ae1779fcf5b9.pdf",
     "scrip_cd": 543322
   },
   {
@@ -324,8 +580,24 @@
     "INDUSTRY": "Specialty Chemicals",
     "scrip_id": "MFL",
     "Mktcap": "3971.57",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ed355af8-b846-4b39-bfd1-3ce070641681.pdf",
+    "scrip_cd": 543332
+  },
+  {
+    "Scrip_Name": "Meghmani Finechem Ltd",
+    "INDUSTRY": "Specialty Chemicals",
+    "scrip_id": "MFL",
+    "Mktcap": "3971.57",
     "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9e6ddc66-4fd9-4d69-b9cc-f777150120af.pdf",
     "scrip_cd": 543332
+  },
+  {
+    "Scrip_Name": "CarTrade Tech Ltd",
+    "INDUSTRY": "E-Retail/ E-Commerce",
+    "scrip_id": "CARTRADE",
+    "Mktcap": "1966.06",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1d79145d-9b50-40a2-bff0-82705054f963.pdf",
+    "scrip_cd": 543333
   },
   {
     "Scrip_Name": "Anand Rathi Wealth Ltd",
@@ -352,12 +624,132 @@
     "scrip_cd": 543425
   },
   {
+    "Scrip_Name": "C.E. Info Systems Ltd",
+    "INDUSTRY": "Software Products",
+    "scrip_id": "MAPMYINDIA",
+    "Mktcap": "5894.64",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/fe54ab3a-fc2b-440f-9750-ad808b95e75c.pdf",
+    "scrip_cd": 543425
+  },
+  {
+    "Scrip_Name": "C.E. Info Systems Ltd",
+    "INDUSTRY": "Software Products",
+    "scrip_id": "MAPMYINDIA",
+    "Mktcap": "5894.64",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/251e0a6e-50f6-444c-882d-0f4fc856d9e8.pdf",
+    "scrip_cd": 543425
+  },
+  {
+    "Scrip_Name": "Vedant Fashions Ltd",
+    "INDUSTRY": "Speciality Retail",
+    "scrip_id": "MANYAVAR",
+    "Mktcap": "30894.97",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b484534e-8392-4926-b187-85b28b48da02.pdf",
+    "scrip_cd": 543463
+  },
+  {
+    "Scrip_Name": "Dhampur Bio Organics Ltd",
+    "INDUSTRY": "Sugar",
+    "scrip_id": "DBOL",
+    "Mktcap": "1103.03",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1cf4808c-0b05-4e07-9bc4-b4f942482927.pdf",
+    "scrip_cd": 543593
+  },
+  {
     "Scrip_Name": "Tamilnad Mercantile Bank Ltd",
     "INDUSTRY": "Private Sector Bank",
     "scrip_id": "TMB",
     "Mktcap": "6547.83",
     "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/39c0fede-17df-40cf-81f1-ddf49f8412ce.pdf",
     "scrip_cd": 543596
+  },
+  {
+    "Scrip_Name": "IIFL Finance Ltd",
+    "INDUSTRY": "Non Banking Financial Company (NBFC)",
+    "scrip_id": "IIFL",
+    "Mktcap": "18051.42",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e2855813-946b-4fb9-ad8f-0c3d2595011f.pdf",
+    "scrip_cd": 532636
+  },
+  {
+    "Scrip_Name": "SHOPPERS STOP LTD.",
+    "INDUSTRY": "Diversified Retail",
+    "scrip_id": "SHOPERSTOP",
+    "Mktcap": "7261.98",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3acbb437-20fc-4bed-a3d7-018c32a654f7.pdf",
+    "scrip_cd": 532638
+  },
+  {
+    "Scrip_Name": "YES BANK LTD.",
+    "INDUSTRY": "Private Sector Bank",
+    "scrip_id": "YESBANK",
+    "Mktcap": "45087.90",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0a66d145-2a48-4ee1-868e-e0550e2446e8.pdf",
+    "scrip_cd": 532648
+  },
+  {
+    "Scrip_Name": "YES BANK LTD.",
+    "INDUSTRY": "Private Sector Bank",
+    "scrip_id": "YESBANK",
+    "Mktcap": "45087.90",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/da8e3988-f1dd-4872-8d3c-4f3762dbfbd7.pdf",
+    "scrip_cd": 532648
+  },
+  {
+    "Scrip_Name": "YES BANK LTD.",
+    "INDUSTRY": "Private Sector Bank",
+    "scrip_id": "YESBANK",
+    "Mktcap": "45087.90",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a6085519-7385-4e37-95f0-54dd0376143d.pdf",
+    "scrip_cd": 532648
+  },
+  {
+    "Scrip_Name": "YES BANK LTD.",
+    "INDUSTRY": "Private Sector Bank",
+    "scrip_id": "YESBANK",
+    "Mktcap": "45087.90",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e6e698dd-7acd-4289-919a-6c31fd1a03ab.pdf",
+    "scrip_cd": 532648
+  },
+  {
+    "Scrip_Name": "YES BANK LTD.",
+    "INDUSTRY": "Private Sector Bank",
+    "scrip_id": "YESBANK",
+    "Mktcap": "45087.90",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/921c7684-dac2-4efc-b422-ca6392fb69bd.pdf",
+    "scrip_cd": 532648
+  },
+  {
+    "Scrip_Name": "PVR LTD.",
+    "INDUSTRY": "Film Production- Distribution & Exhibition",
+    "scrip_id": "PVR",
+    "Mktcap": "14337.83",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9669c4bf-c9b4-4de7-a9ca-480e1b016f10.pdf",
+    "scrip_cd": 532689
+  },
+  {
+    "Scrip_Name": "ENTERTAINMENT NETWORK (INDIA) LTD.",
+    "INDUSTRY": "Media & Entertainment",
+    "scrip_id": "ENIL",
+    "Mktcap": "619.95",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0cc25b58-baeb-4a3d-9140-7a3151f716b7.pdf",
+    "scrip_cd": 532700
+  },
+  {
+    "Scrip_Name": "ENTERTAINMENT NETWORK (INDIA) LTD.",
+    "INDUSTRY": "Media & Entertainment",
+    "scrip_id": "ENIL",
+    "Mktcap": "619.95",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9ebc4f3b-13a7-424a-bf33-0ce38e7b79b8.pdf",
+    "scrip_cd": 532700
+  },
+  {
+    "Scrip_Name": "MAHINDRA & MAHINDRA FINANCIAL SERVICES LTD.",
+    "INDUSTRY": "Non Banking Financial Company (NBFC)",
+    "scrip_id": "M&MFIN",
+    "Mktcap": "31994.05",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2701bd51-8a2e-4b30-b126-f0438b2d668b.pdf",
+    "scrip_cd": 532720
   },
   {
     "Scrip_Name": "KEWAL KIRAN CLOTHING LTD.",
@@ -368,12 +760,60 @@
     "scrip_cd": 532732
   },
   {
+    "Scrip_Name": "TECH MAHINDRA LTD.",
+    "INDUSTRY": "Computers - Software & Consulting",
+    "scrip_id": "TECHM",
+    "Mktcap": "99729.91",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/24e36657-e6d2-4658-aff5-c08eecb7c3a9.pdf",
+    "scrip_cd": 532755
+  },
+  {
     "Scrip_Name": "Mahindra CIE Automotive Limited",
     "INDUSTRY": "Auto Components & Equipments",
     "scrip_id": "MAHINDCIE",
     "Mktcap": "15111.90",
     "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad16a904-bc67-4213-8635-d2335d0f930c.pdf",
     "scrip_cd": 532756
+  },
+  {
+    "Scrip_Name": "Mahindra CIE Automotive Limited",
+    "INDUSTRY": "Auto Components & Equipments",
+    "scrip_id": "MAHINDCIE",
+    "Mktcap": "15111.90",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a3f18343-2ea3-4e19-a633-367ae8bc658b.pdf",
+    "scrip_cd": 532756
+  },
+  {
+    "Scrip_Name": "Sobha Limited",
+    "INDUSTRY": "Residential- Commercial Projects",
+    "scrip_id": "SOBHA",
+    "Mktcap": "4326.39",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7708bde4-6328-45c5-8a96-fa26ab40bc7a.pdf",
+    "scrip_cd": 532784
+  },
+  {
+    "Scrip_Name": "Tanla Platforms Ltd",
+    "INDUSTRY": "Software Products",
+    "scrip_id": "TANLA",
+    "Mktcap": "9049.18",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e2e6965b-28da-491b-8b98-2b91db0e6aab.pdf",
+    "scrip_cd": 532790
+  },
+  {
+    "Scrip_Name": "Tanla Platforms Ltd",
+    "INDUSTRY": "Software Products",
+    "scrip_id": "TANLA",
+    "Mktcap": "9049.18",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f5af2830-d221-42a2-a4e9-691d6ec75480.pdf",
+    "scrip_cd": 532790
+  },
+  {
+    "Scrip_Name": "Tanla Platforms Ltd",
+    "INDUSTRY": "Software Products",
+    "scrip_id": "TANLA",
+    "Mktcap": "9049.18",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0c568886-bd2c-400a-945f-90eb8c75fad0.pdf",
+    "scrip_cd": 532790
   },
   {
     "Scrip_Name": "DELTA CORP LTD.",
@@ -384,6 +824,86 @@
     "scrip_cd": 532848
   },
   {
+    "Scrip_Name": "DELTA CORP LTD.",
+    "INDUSTRY": "Amusement Parks/ Other Recreation",
+    "scrip_id": "DELTACORP",
+    "Mktcap": "5479.02",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d6192763-c8e1-4e78-a804-a1bf5ef4416b.pdf",
+    "scrip_cd": 532848
+  },
+  {
+    "Scrip_Name": "CENTRAL BANK OF INDIA",
+    "INDUSTRY": "Public Sector Bank",
+    "scrip_id": "CENTRALBK",
+    "Mktcap": "26346.65",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/77ed9927-2a75-4778-9aed-dc571909668c.pdf",
+    "scrip_cd": 532885
+  },
+  {
+    "Scrip_Name": "BRIGADE ENTERPRISES LTD.",
+    "INDUSTRY": "Residential- Commercial Projects",
+    "scrip_id": "BRIGADE",
+    "Mktcap": "11567.73",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8e39954c-b73d-41fe-ab8b-9248b02d29c5.pdf",
+    "scrip_cd": 532929
+  },
+  {
+    "Scrip_Name": "BAJAJ AUTO LTD.",
+    "INDUSTRY": "2/3 Wheelers",
+    "scrip_id": "BAJAJ-AUTO",
+    "Mktcap": "125334.55",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/66fb0fb2-6364-4016-bb02-f3eaf26840fe.pdf",
+    "scrip_cd": 532977
+  },
+  {
+    "Scrip_Name": "BAJAJ AUTO LTD.",
+    "INDUSTRY": "2/3 Wheelers",
+    "scrip_id": "BAJAJ-AUTO",
+    "Mktcap": "125334.55",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4f7b267e-2289-4bda-b7b9-bc1e07e3528d.pdf",
+    "scrip_cd": 532977
+  },
+  {
+    "Scrip_Name": "BAJAJ FINSERV LTD.",
+    "INDUSTRY": "Holding Company",
+    "scrip_id": "BAJAJFINSV",
+    "Mktcap": "215245.12",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/044a1a41-08fc-41a6-9a0e-32b6ba37f999.pdf",
+    "scrip_cd": 532978
+  },
+  {
+    "Scrip_Name": "RPG LIFE SCIENCES LTD.",
+    "INDUSTRY": "Pharmaceuticals",
+    "scrip_id": "RPGLIFE",
+    "Mktcap": "1382.08",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/693847c8-656b-4570-8efe-98aab9a15d62.pdf",
+    "scrip_cd": 532983
+  },
+  {
+    "Scrip_Name": "MAHINDRA HOLIDAYS & RESORTS INDIA LTD.",
+    "INDUSTRY": "Hotels & Resorts",
+    "scrip_id": "MHRIL",
+    "Mktcap": "6064.61",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b055fdd2-7ed9-45e9-bda7-fc0ac20381b6.pdf",
+    "scrip_cd": 533088
+  },
+  {
+    "Scrip_Name": "PERSISTENT SYSTEMS LTD.",
+    "INDUSTRY": "Computers - Software & Consulting",
+    "scrip_id": "PERSISTENT",
+    "Mktcap": "36454.37",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a2567197-7501-411f-b4df-48322f3dd86d.pdf",
+    "scrip_cd": 533179
+  },
+  {
+    "Scrip_Name": "PERSISTENT SYSTEMS LTD.",
+    "INDUSTRY": "Computers - Software & Consulting",
+    "scrip_id": "PERSISTENT",
+    "Mktcap": "36454.37",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b6c6dc06-2cbf-4da6-adf9-5a3df73c70b8.pdf",
+    "scrip_cd": 533179
+  },
+  {
     "Scrip_Name": "PERSISTENT SYSTEMS LTD.",
     "INDUSTRY": "Computers - Software & Consulting",
     "scrip_id": "PERSISTENT",
@@ -392,11 +912,771 @@
     "scrip_cd": 533179
   },
   {
+    "Scrip_Name": "PERSISTENT SYSTEMS LTD.",
+    "INDUSTRY": "Computers - Software & Consulting",
+    "scrip_id": "PERSISTENT",
+    "Mktcap": "36454.37",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/75fa3243-95b5-4b37-8f13-a4c67dac6f3f.pdf",
+    "scrip_cd": 533179
+  },
+  {
+    "Scrip_Name": "PERSISTENT SYSTEMS LTD.",
+    "INDUSTRY": "Computers - Software & Consulting",
+    "scrip_id": "PERSISTENT",
+    "Mktcap": "36454.37",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ac4b89d3-4473-460c-974f-2b6fe786f69b.pdf",
+    "scrip_cd": 533179
+  },
+  {
+    "Scrip_Name": "Jupiter Wagons Ltd",
+    "INDUSTRY": "Commercial Vehicles",
+    "scrip_id": "JWL",
+    "Mktcap": "4092.22",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ac50374a-a5df-4cb0-8e44-024e29a9433f.pdf",
+    "scrip_cd": 533272
+  },
+  {
+    "Scrip_Name": "Jupiter Wagons Ltd",
+    "INDUSTRY": "Commercial Vehicles",
+    "scrip_id": "JWL",
+    "Mktcap": "4092.22",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/79f22246-3213-41dd-a8d6-d68482f4751e.pdf",
+    "scrip_cd": 533272
+  },
+  {
     "Scrip_Name": "VARDHMAN SPECIAL STEELS LTD.",
     "INDUSTRY": "Iron & Steel Products",
     "scrip_id": "VSSL",
     "Mktcap": "1490.21",
     "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d358c682-8c03-4759-b59e-99115aafd445.pdf",
     "scrip_cd": 534392
+  },
+  {
+    "Scrip_Name": "RACL Geartech Ltd",
+    "INDUSTRY": "Auto Components & Equipments",
+    "scrip_id": "RACLGEAR",
+    "Mktcap": "1020.64",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/94d4dc84-324d-4d00-81ee-d3150b3eabd0.pdf",
+    "scrip_cd": 520073
+  },
+  {
+    "Scrip_Name": "RACL Geartech Ltd",
+    "INDUSTRY": "Auto Components & Equipments",
+    "scrip_id": "RACLGEAR",
+    "Mktcap": "1020.64",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cded3bbe-282b-4c86-b814-bd93075ceff1.pdf",
+    "scrip_cd": 520073
+  },
+  {
+    "Scrip_Name": "CONTROL PRINT LTD.-$",
+    "INDUSTRY": "Computers Hardware & Equipments",
+    "scrip_id": "CONTROLPR",
+    "Mktcap": "941.03",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3c9e2635-5500-4637-acdb-bbd62fca290e.pdf",
+    "scrip_cd": 522295
+  },
+  {
+    "Scrip_Name": "APCOTEX INDUSTRIES LTD.",
+    "INDUSTRY": "Rubber",
+    "scrip_id": "APCOTEXIND",
+    "Mktcap": "2600.54",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/43c98290-09e4-430c-82f4-864de730d36e.pdf",
+    "scrip_cd": 523694
+  },
+  {
+    "Scrip_Name": "APCOTEX INDUSTRIES LTD.",
+    "INDUSTRY": "Rubber",
+    "scrip_id": "APCOTEXIND",
+    "Mktcap": "2600.54",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/87abdc37-895b-4081-8378-c6344bf872e0.pdf",
+    "scrip_cd": 523694
+  },
+  {
+    "Scrip_Name": "MASTEK LTD.",
+    "INDUSTRY": "Computers - Software & Consulting",
+    "scrip_id": "MASTEK",
+    "Mktcap": "5245.60",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5278ac12-c200-4c71-a9eb-5bff860bdbb2.pdf",
+    "scrip_cd": 523704
+  },
+  {
+    "Scrip_Name": "MASTEK LTD.",
+    "INDUSTRY": "Computers - Software & Consulting",
+    "scrip_id": "MASTEK",
+    "Mktcap": "5245.60",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/20f1b153-a6dc-459f-b4f9-25d408a1eeb4.pdf",
+    "scrip_cd": 523704
+  },
+  {
+    "Scrip_Name": "Mahindra EPC Irrigation Ltd",
+    "INDUSTRY": "Industrial Products",
+    "scrip_id": "MAHEPC",
+    "Mktcap": "276.92",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ce9ea86f-f901-4df1-bd63-d9d84ca1c63a.pdf",
+    "scrip_cd": 523754
+  },
+  {
+    "Scrip_Name": "MENON BEARINGS LTD.-$",
+    "INDUSTRY": "Auto Components & Equipments",
+    "scrip_id": "MENONBE",
+    "Mktcap": "585.73",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1ffa32b0-6971-4881-9514-54ca9efc6287.pdf",
+    "scrip_cd": 523828
+  },
+  {
+    "Scrip_Name": "Poonawalla Fincorp Ltd",
+    "INDUSTRY": "Non Banking Financial Company (NBFC)",
+    "scrip_id": "POONAWALLA",
+    "Mktcap": "24804.71",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f31fe056-a170-4f01-9de6-4421c8887f91.pdf",
+    "scrip_cd": 524000
+  },
+  {
+    "Scrip_Name": "AARTI DRUGS LTD.",
+    "INDUSTRY": "Pharmaceuticals",
+    "scrip_id": "AARTIDRUGS",
+    "Mktcap": "3897.53",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2711b099-8449-4281-9321-d8f1c136abe9.pdf",
+    "scrip_cd": 524348
+  },
+  {
+    "Scrip_Name": "IPCA LABORATORIES LTD.",
+    "INDUSTRY": "Pharmaceuticals",
+    "scrip_id": "IPCALAB",
+    "Mktcap": "18000.78",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/32255027-c943-41a9-b1ac-8226e12d3d22.pdf",
+    "scrip_cd": 524494
+  },
+  {
+    "Scrip_Name": "PATEL INTEGRATED LOGISTICS LTD.-$",
+    "INDUSTRY": "Logistics Solution Provider",
+    "scrip_id": "PATINTLOG",
+    "Mktcap": "76.28",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/35b39126-2530-4d8b-93c1-25d07b6b397d.pdf",
+    "scrip_cd": 526381
+  },
+  {
+    "Scrip_Name": "OK PLAY INDIA LTD.",
+    "INDUSTRY": "Leisure Products",
+    "scrip_id": "OKPLA",
+    "Mktcap": "194.85",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e19f0575-3863-4c88-a7f2-c95dc8f61ada.pdf",
+    "scrip_cd": 526415
+  },
+  {
+    "Scrip_Name": "OK PLAY INDIA LTD.",
+    "INDUSTRY": "Leisure Products",
+    "scrip_id": "OKPLA",
+    "Mktcap": "194.85",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a3aa4126-5f73-4d9e-b797-c6be5c937626.pdf",
+    "scrip_cd": 526415
+  },
+  {
+    "Scrip_Name": "OK PLAY INDIA LTD.",
+    "INDUSTRY": "Leisure Products",
+    "scrip_id": "OKPLA",
+    "Mktcap": "194.85",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f2ab7bc5-7fe1-477f-b115-ba842f39521e.pdf",
+    "scrip_cd": 526415
+  },
+  {
+    "Scrip_Name": "Indus Towers Ltd",
+    "INDUSTRY": "Telecom - Infrastructure",
+    "scrip_id": "INDUSTOWER",
+    "Mktcap": "41717.62",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/531cbed7-cd2d-4cf9-87ac-c1079bc608d7.pdf",
+    "scrip_cd": 534816
+  },
+  {
+    "Scrip_Name": "Indus Towers Ltd",
+    "INDUSTRY": "Telecom - Infrastructure",
+    "scrip_id": "INDUSTOWER",
+    "Mktcap": "41717.62",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/96163d35-27f3-4cf4-b67b-272ba7575906.pdf",
+    "scrip_cd": 534816
+  },
+  {
+    "Scrip_Name": "JUST DIAL LTD.",
+    "INDUSTRY": "Internet & Catalogue Retail",
+    "scrip_id": "JUSTDIAL",
+    "Mktcap": "5689.11",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d664d7e4-370f-4cb3-a25d-bc0a861b5912.pdf",
+    "scrip_cd": 535648
+  },
+  {
+    "Scrip_Name": "JUST DIAL LTD.",
+    "INDUSTRY": "Internet & Catalogue Retail",
+    "scrip_id": "JUSTDIAL",
+    "Mktcap": "5689.11",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0d2c12b4-7882-42fd-ac60-809985b43afc.pdf",
+    "scrip_cd": 535648
+  },
+  {
+    "Scrip_Name": "JUST DIAL LTD.",
+    "INDUSTRY": "Internet & Catalogue Retail",
+    "scrip_id": "JUSTDIAL",
+    "Mktcap": "5689.11",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/78CBAEE0-E268-44D2-93E3-5315C0DE6EE7-115030.pdf",
+    "scrip_cd": 535648
+  },
+  {
+    "Scrip_Name": "Nath Bio-Genes (India) Ltd",
+    "INDUSTRY": "Other Agricultural Products",
+    "scrip_id": "NATHBIOGEN",
+    "Mktcap": "312.81",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1f2e330e-cdde-4014-b642-3d686352636c.pdf",
+    "scrip_cd": 537291
+  },
+  {
+    "Scrip_Name": "Nath Bio-Genes (India) Ltd",
+    "INDUSTRY": "Other Agricultural Products",
+    "scrip_id": "NATHBIOGEN",
+    "Mktcap": "312.81",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bbd22df9-47c0-4089-91b3-3e5ce6b286f0.pdf",
+    "scrip_cd": 537291
+  },
+  {
+    "Scrip_Name": "Star Housing Finance Ltd",
+    "INDUSTRY": "Housing Finance Company",
+    "scrip_id": "STARHFL",
+    "Mktcap": "373.60",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/427ed909-c751-4ddd-aaac-eb815eb3ac32.pdf",
+    "scrip_cd": 539017
+  },
+  {
+    "Scrip_Name": "Star Housing Finance Ltd",
+    "INDUSTRY": "Housing Finance Company",
+    "scrip_id": "STARHFL",
+    "Mktcap": "373.60",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c385aa8f-c646-4bf2-b3a9-07cd4497f655.pdf",
+    "scrip_cd": 539017
+  },
+  {
+    "Scrip_Name": "Syngene International Ltd",
+    "INDUSTRY": "Healthcare Research- Analytics & Technology",
+    "scrip_id": "SYNGENE",
+    "Mktcap": "27191.17",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/975b528a-8c3f-4f80-941a-8eb27e1e67d0.pdf",
+    "scrip_cd": 539268
+  },
+  {
+    "Scrip_Name": "Syngene International Ltd",
+    "INDUSTRY": "Healthcare Research- Analytics & Technology",
+    "scrip_id": "SYNGENE",
+    "Mktcap": "27191.17",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/813cd6db-699d-4078-8012-785fe71ee56a.pdf",
+    "scrip_cd": 539268
+  },
+  {
+    "Scrip_Name": "Aurum PropTech Ltd",
+    "INDUSTRY": "IT Enabled Services",
+    "scrip_id": "AURUM",
+    "Mktcap": "329.81",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8c1f9bd0-0ccb-4475-8b6b-01e146d5c827.pdf",
+    "scrip_cd": 539289
+  },
+  {
+    "Scrip_Name": "Satin Creditcare Network Ltd",
+    "INDUSTRY": "Microfinance Institutions",
+    "scrip_id": "SATIN",
+    "Mktcap": "1222.11",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e48cf216-95ec-4e4d-9763-32cd76a6e9f6.pdf",
+    "scrip_cd": 539404
+  },
+  {
+    "Scrip_Name": "IDFC First Bank Ltd",
+    "INDUSTRY": "Private Sector Bank",
+    "scrip_id": "IDFCFIRSTB",
+    "Mktcap": "40754.07",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/fa3b246a-6ee8-4bb1-adf4-c08bb594ab0b.pdf",
+    "scrip_cd": 539437
+  },
+  {
+    "Scrip_Name": "IDFC First Bank Ltd",
+    "INDUSTRY": "Private Sector Bank",
+    "scrip_id": "IDFCFIRSTB",
+    "Mktcap": "40754.07",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/048b1000-e8f7-450c-809d-e10343486cea.pdf",
+    "scrip_cd": 539437
+  },
+  {
+    "Scrip_Name": "Quick Heal Technologies Ltd",
+    "INDUSTRY": "Software Products",
+    "scrip_id": "QUICKHEAL",
+    "Mktcap": "727.64",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1eb9f7d3-5771-4539-9075-207edb2387b2.pdf",
+    "scrip_cd": 539678
+  },
+  {
+    "Scrip_Name": "Quick Heal Technologies Ltd",
+    "INDUSTRY": "Software Products",
+    "scrip_id": "QUICKHEAL",
+    "Mktcap": "727.64",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/90eb6c75-fc08-4c62-b1ef-1fa82503a5ab.pdf",
+    "scrip_cd": 539678
+  },
+  {
+    "Scrip_Name": "Bajaj Finance Limited",
+    "INDUSTRY": "Non Banking Financial Company (NBFC)",
+    "scrip_id": "BAJFINANCE",
+    "Mktcap": "380234.72",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5d92a755-d1bb-423f-8309-3fdb32a9fa8a.pdf",
+    "scrip_cd": 500034
+  },
+  {
+    "Scrip_Name": "Bajaj Finance Limited",
+    "INDUSTRY": "Non Banking Financial Company (NBFC)",
+    "scrip_id": "BAJFINANCE",
+    "Mktcap": "380234.72",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e87a13dc-5cac-44e6-b783-fd36d995fc7f.pdf",
+    "scrip_cd": 500034
+  },
+  {
+    "Scrip_Name": "CENTURY TEXTILES & INDUSTRIES LTD.",
+    "INDUSTRY": "Paper & Paper Products",
+    "scrip_id": "CENTURYTEX",
+    "Mktcap": "7603.12",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3381eb25-fd7a-4450-9b03-ba4a34d751a6.pdf",
+    "scrip_cd": 500040
+  },
+  {
+    "Scrip_Name": "Titan Company Limited",
+    "INDUSTRY": "Gems- Jewellery And Watches",
+    "scrip_id": "TITAN",
+    "Mktcap": "234411.06",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aa16d2c3-89bf-4834-9fde-27304e6bfa64.pdf",
+    "scrip_cd": 500114
+  },
+  {
+    "Scrip_Name": "HDFC Bank Ltd",
+    "INDUSTRY": "Private Sector Bank",
+    "scrip_id": "HDFCBANK",
+    "Mktcap": "942052.68",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/57e720ab-83b3-4b34-bb81-0c364e88c938.pdf",
+    "scrip_cd": 500180
+  },
+  {
+    "Scrip_Name": "HDFC Bank Ltd",
+    "INDUSTRY": "Private Sector Bank",
+    "scrip_id": "HDFCBANK",
+    "Mktcap": "942052.68",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/788f397f-5b48-4deb-9a61-3fa63e266436.pdf",
+    "scrip_cd": 500180
+  },
+  {
+    "Scrip_Name": "HDFC Bank Ltd",
+    "INDUSTRY": "Private Sector Bank",
+    "scrip_id": "HDFCBANK",
+    "Mktcap": "942052.68",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c148824e-1bae-4eed-9e38-a43db24907e1.pdf",
+    "scrip_cd": 500180
+  },
+  {
+    "Scrip_Name": "HINDUSTAN ZINC LTD.",
+    "INDUSTRY": "Zinc",
+    "scrip_id": "HINDZINC",
+    "Mktcap": "132886.28",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3abc41cc-5db8-496a-bf0e-b93cccf03588.pdf",
+    "scrip_cd": 500188
+  },
+  {
+    "Scrip_Name": "HINDUSTAN ZINC LTD.",
+    "INDUSTRY": "Zinc",
+    "scrip_id": "HINDZINC",
+    "Mktcap": "132886.28",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7f197cf1-34d5-42ef-9b8f-5df251ea0653.pdf",
+    "scrip_cd": 500188
+  },
+  {
+    "Scrip_Name": "INFOSYS LTD.",
+    "INDUSTRY": "Computers - Software & Consulting",
+    "scrip_id": "INFY",
+    "Mktcap": "519662.10",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c94d45c5-a44a-49d9-89af-6ef6532c4a30.pdf",
+    "scrip_cd": 500209
+  },
+  {
+    "Scrip_Name": "AGRO TECH FOODS LTD.",
+    "INDUSTRY": "Edible Oil",
+    "scrip_id": "ATFL",
+    "Mktcap": "1952.10",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f1e5c5f8-9cd5-4173-b178-bd5aa5963224.pdf",
+    "scrip_cd": 500215
+  },
+  {
+    "Scrip_Name": "KOTAK MAHINDRA BANK LTD.",
+    "INDUSTRY": "Private Sector Bank",
+    "scrip_id": "KOTAKBANK",
+    "Mktcap": "384935.07",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c6a88a22-98ec-4cf7-9d4c-f8f94e289c70.pdf",
+    "scrip_cd": 500247
+  },
+  {
+    "Scrip_Name": "KOTAK MAHINDRA BANK LTD.",
+    "INDUSTRY": "Private Sector Bank",
+    "scrip_id": "KOTAKBANK",
+    "Mktcap": "384935.07",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d6354f99-7ef1-4636-860e-1154e2bab128.pdf",
+    "scrip_cd": 500247
+  },
+  {
+    "Scrip_Name": "RELIANCE INDUSTRIES LTD.",
+    "INDUSTRY": "Refineries & Marketing",
+    "scrip_id": "RELIANCE",
+    "Mktcap": "1637408.27",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9c8c3f07-883a-476b-8fb2-8fe74078e9f5.pdf",
+    "scrip_cd": 500325
+  },
+  {
+    "Scrip_Name": "PIDILITE INDUSTRIES LTD.",
+    "INDUSTRY": "Specialty Chemicals",
+    "scrip_id": "PIDILITIND",
+    "Mktcap": "122923.09",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a61511d8-2bf4-42df-99a3-a9d138420875.pdf",
+    "scrip_cd": 500331
+  },
+  {
+    "Scrip_Name": "SURYA ROSHNI LTD.",
+    "INDUSTRY": "Iron & Steel Products",
+    "scrip_id": "SURYAROSNI",
+    "Mktcap": "4341.84",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7faa5a2b-62ad-48a1-8a8a-437a96c2d426.pdf",
+    "scrip_cd": 500336
+  },
+  {
+    "Scrip_Name": "SURYA ROSHNI LTD.",
+    "INDUSTRY": "Iron & Steel Products",
+    "scrip_id": "SURYAROSNI",
+    "Mktcap": "4341.84",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e5e3e34a-94f8-4452-859d-5bef82274f56.pdf",
+    "scrip_cd": 500336
+  },
+  {
+    "Scrip_Name": "RALLIS INDIA LTD.",
+    "INDUSTRY": "Pesticides & Agrochemicals",
+    "scrip_id": "RALLIS",
+    "Mktcap": "3684.21",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6739eff5-91e6-4002-918c-637e18cb322f.pdf",
+    "scrip_cd": 500355
+  },
+  {
+    "Scrip_Name": "SUPREME PETROCHEM LTD.",
+    "INDUSTRY": "Petrochemicals",
+    "scrip_id": "SPLPETRO",
+    "Mktcap": "7196.34",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3fdca516-b52f-4dac-b087-87a554d9eabf.pdf",
+    "scrip_cd": 500405
+  },
+  {
+    "Scrip_Name": "SUPREME PETROCHEM LTD.",
+    "INDUSTRY": "Petrochemicals",
+    "scrip_id": "SPLPETRO",
+    "Mktcap": "7196.34",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/586bed74-27a4-4818-a518-76ff6ef2b14f.pdf",
+    "scrip_cd": 500405
+  },
+  {
+    "Scrip_Name": "ACC LTD.",
+    "INDUSTRY": "Cement & Cement Products",
+    "scrip_id": "ACC",
+    "Mktcap": "33105.96",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/dc3ed371-a37d-474f-aff1-03b68da56570.pdf",
+    "scrip_cd": 500410
+  },
+  {
+    "Scrip_Name": "ACC LTD.",
+    "INDUSTRY": "Cement & Cement Products",
+    "scrip_id": "ACC",
+    "Mktcap": "33105.96",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8f154cb3-20b0-4837-9492-5764d0a82a2f.pdf",
+    "scrip_cd": 500410
+  },
+  {
+    "Scrip_Name": "AMBUJA CEMENTS LTD.",
+    "INDUSTRY": "Cement & Cement Products",
+    "scrip_id": "AMBUJACEM",
+    "Mktcap": "78691.12",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f4205389-badd-42b0-a61f-06fdda89ac9e.pdf",
+    "scrip_cd": 500425
+  },
+  {
+    "Scrip_Name": "WEST COAST PAPER MILLS LTD.",
+    "INDUSTRY": "Paper & Paper Products",
+    "scrip_id": "WSTCSTPAPR",
+    "Mktcap": "3640.29",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cfa258bd-1e2b-498b-a31b-fe5ed8773abb.pdf",
+    "scrip_cd": 500444
+  },
+  {
+    "Scrip_Name": "TATA COMMUNICATIONS LTD.",
+    "INDUSTRY": "Telecom - Cellular & Fixed line services",
+    "scrip_id": "TATACOMM",
+    "Mktcap": "36180.75",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d2463d1a-6503-4b4e-b3c7-4cecd048452c.pdf",
+    "scrip_cd": 500483
+  },
+  {
+    "Scrip_Name": "TATA COMMUNICATIONS LTD.",
+    "INDUSTRY": "Telecom - Cellular & Fixed line services",
+    "scrip_id": "TATACOMM",
+    "Mktcap": "36180.75",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/819fbcf3-5763-4d2e-86a6-c925e09e36a4.pdf",
+    "scrip_cd": 500483
+  },
+  {
+    "Scrip_Name": "VOLTAS LTD.",
+    "INDUSTRY": "Household Appliances",
+    "scrip_id": "VOLTAS",
+    "Mktcap": "26434.38",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/49875222-87ab-47ac-87dc-007ebaf88987.pdf",
+    "scrip_cd": 500575
+  },
+  {
+    "Scrip_Name": "Tata Consumer Products Ltd",
+    "INDUSTRY": "Tea & Coffee",
+    "scrip_id": "TATACONSUM",
+    "Mktcap": "70925.39",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/73243fc9-684d-4283-9590-43e072f29e9a.pdf",
+    "scrip_cd": 500800
+  },
+  {
+    "Scrip_Name": "INDIAN HOTELS CO.LTD.",
+    "INDUSTRY": "Hotels & Resorts",
+    "scrip_id": "INDHOTEL",
+    "Mktcap": "48144.47",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2efcdbc8-d553-4982-9d73-7475727020a4.pdf",
+    "scrip_cd": 500850
+  },
+  {
+    "Scrip_Name": "The Phoenix Mills Ltd",
+    "INDUSTRY": "Residential- Commercial Projects",
+    "scrip_id": "PHOENIXLTD",
+    "Mktcap": "25858.45",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/201efd56-d4ce-4e5b-900c-a11c943b6507.pdf",
+    "scrip_cd": 503100
+  },
+  {
+    "Scrip_Name": "HATSUN AGRO PRODUCT LTD.",
+    "INDUSTRY": "Dairy Products",
+    "scrip_id": "HATSUN",
+    "Mktcap": "18812.20",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bbd56213-337e-42c7-9646-3762d259630d.pdf",
+    "scrip_cd": 531531
+  },
+  {
+    "Scrip_Name": "Welspun Corp Limited",
+    "INDUSTRY": "Iron & Steel Products",
+    "scrip_id": "WELCORP",
+    "Mktcap": "5885.72",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/efe5b32f-148d-464b-a665-4de09f3eb413.pdf",
+    "scrip_cd": 532144
+  },
+  {
+    "Scrip_Name": "Vaibhav Global Ltd",
+    "INDUSTRY": "Gems- Jewellery And Watches",
+    "scrip_id": "VAIBHAVGBL",
+    "Mktcap": "5200.47",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d09969af-db45-4c9f-95d3-d5be7471bd1f.pdf",
+    "scrip_cd": 532156
+  },
+  {
+    "Scrip_Name": "ICICI BANK LTD.",
+    "INDUSTRY": "Private Sector Bank",
+    "scrip_id": "ICICIBANK",
+    "Mktcap": "640949.71",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3377c74f-9820-4efd-82a6-fabefe94343d.pdf",
+    "scrip_cd": 532174
+  },
+  {
+    "Scrip_Name": "ICICI BANK LTD.",
+    "INDUSTRY": "Private Sector Bank",
+    "scrip_id": "ICICIBANK",
+    "Mktcap": "640949.71",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a1a55426-621e-4d8b-bca4-7bcc16e12381.pdf",
+    "scrip_cd": 532174
+  },
+  {
+    "Scrip_Name": "ICICI BANK LTD.",
+    "INDUSTRY": "Private Sector Bank",
+    "scrip_id": "ICICIBANK",
+    "Mktcap": "640949.71",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/81f29e9a-a24f-4a80-a10b-83f78fb70e19.pdf",
+    "scrip_cd": 532174
+  },
+  {
+    "Scrip_Name": "Cyient Limited",
+    "INDUSTRY": "IT Enabled Services",
+    "scrip_id": "CYIENT",
+    "Mktcap": "13079.92",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/22e30362-6537-4c93-95b0-85ff83a94648.pdf",
+    "scrip_cd": 532175
+  },
+  {
+    "Scrip_Name": "Cyient Limited",
+    "INDUSTRY": "IT Enabled Services",
+    "scrip_id": "CYIENT",
+    "Mktcap": "13079.92",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/40526090-3259-4b93-ac0a-c70286b46373.pdf",
+    "scrip_cd": 532175
+  },
+  {
+    "Scrip_Name": "AXIS BANK LTD.",
+    "INDUSTRY": "Private Sector Bank",
+    "scrip_id": "AXISBANK",
+    "Mktcap": "264673.11",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f61d49b6-0ee5-4d0e-b4f4-2a2cc72cf86d.pdf",
+    "scrip_cd": 532215
+  },
+  {
+    "Scrip_Name": "AXIS BANK LTD.",
+    "INDUSTRY": "Private Sector Bank",
+    "scrip_id": "AXISBANK",
+    "Mktcap": "264673.11",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6b01f8cc-5882-498f-9ed9-b38c4fdbdbcf.pdf",
+    "scrip_cd": 532215
+  },
+  {
+    "Scrip_Name": "HCL TECHNOLOGIES LTD.",
+    "INDUSTRY": "Computers - Software & Consulting",
+    "scrip_id": "HCLTECH",
+    "Mktcap": "288638.99",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c037df4d-c831-49d4-a905-18ab176a1921.pdf",
+    "scrip_cd": 532281
+  },
+  {
+    "Scrip_Name": "TATA COFFEE LTD.",
+    "INDUSTRY": "Tea & Coffee",
+    "scrip_id": "TATACOFFEE",
+    "Mktcap": "4121.09",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/17f30cda-83fb-41ee-8ad3-9416f46a47a1.pdf",
+    "scrip_cd": 532301
+  },
+  {
+    "Scrip_Name": "MAHINDRA LIFESPACE DEVELOPERS LTD.",
+    "INDUSTRY": "Residential- Commercial Projects",
+    "scrip_id": "MAHLIFE",
+    "Mktcap": "5742.79",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/50390d9b-3773-4254-b537-445177c90731.pdf",
+    "scrip_cd": 532313
+  },
+  {
+    "Scrip_Name": "MAHINDRA LIFESPACE DEVELOPERS LTD.",
+    "INDUSTRY": "Residential- Commercial Projects",
+    "scrip_id": "MAHLIFE",
+    "Mktcap": "5742.79",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0cedee9d-cbc8-49f4-9fdb-66e42a6ff598.pdf",
+    "scrip_cd": 532313
+  },
+  {
+    "Scrip_Name": "GODREJ CONSUMER PRODUCTS LTD.",
+    "INDUSTRY": "Personal Care",
+    "scrip_id": "GODREJCP",
+    "Mktcap": "92682.47",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0123ef19-5458-4eeb-adda-b1ef0fadb61f.pdf",
+    "scrip_cd": 532424
+  },
+  {
+    "Scrip_Name": "BIOCON LTD.",
+    "INDUSTRY": "Pharmaceuticals",
+    "scrip_id": "BIOCON",
+    "Mktcap": "27943.97",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/06c25cdf-8ebb-404b-a01f-06714f18da65.pdf",
+    "scrip_cd": 532523
+  },
+  {
+    "Scrip_Name": "BIOCON LTD.",
+    "INDUSTRY": "Pharmaceuticals",
+    "scrip_id": "BIOCON",
+    "Mktcap": "27943.97",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b4dc7a40-d9e2-4a02-aaa4-57ad95e9a0f7.pdf",
+    "scrip_cd": 532523
+  },
+  {
+    "Scrip_Name": "BANK OF MAHARASHTRA",
+    "INDUSTRY": "Public Sector Bank",
+    "scrip_id": "MAHABANK",
+    "Mktcap": "20332.83",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/85f9d5b2-1ad1-4f3a-9f8e-79c25c8d08d5.pdf",
+    "scrip_cd": 532525
+  },
+  {
+    "Scrip_Name": "BANK OF MAHARASHTRA",
+    "INDUSTRY": "Public Sector Bank",
+    "scrip_id": "MAHABANK",
+    "Mktcap": "20332.83",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8e8eedef-3ac6-4d7d-b3b9-60980312e0dd.pdf",
+    "scrip_cd": 532525
+  },
+  {
+    "Scrip_Name": "RAMKRISHNA FORGINGS LTD.",
+    "INDUSTRY": "Castings & Forgings",
+    "scrip_id": "RKFORGE",
+    "Mktcap": "5191.61",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/abb3b0b0-7bf1-407e-ac8a-ef63439d76a3.pdf",
+    "scrip_cd": 532527
+  },
+  {
+    "Scrip_Name": "DATAMATICS GLOBAL SERVICES LTD.",
+    "INDUSTRY": "IT Enabled Services",
+    "scrip_id": "DATAMATICS",
+    "Mktcap": "2034.93",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3cdc1be0-7d09-480e-b5d2-04b4987b2138.pdf",
+    "scrip_cd": 532528
+  },
+  {
+    "Scrip_Name": "ULTRATECH CEMENT LTD.",
+    "INDUSTRY": "Cement & Cement Products",
+    "scrip_id": "ULTRACEMCO",
+    "Mktcap": "218090.99",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6021650e-3430-4474-a702-bc9a4f562034.pdf",
+    "scrip_cd": 532538
+  },
+  {
+    "Scrip_Name": "TATA CONSULTANCY SERVICES LTD.",
+    "INDUSTRY": "Computers - Software & Consulting",
+    "scrip_id": "TCS",
+    "Mktcap": "1176750.92",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0a54627e-6d57-4e58-a672-5f15cbeb3f7e.pdf",
+    "scrip_cd": 532540
+  },
+  {
+    "Scrip_Name": "Coforge Ltd",
+    "INDUSTRY": "Computers - Software & Consulting",
+    "scrip_id": "COFORGE",
+    "Mktcap": "25557.30",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/490c34c0-27ae-41f6-8362-bdad7bbb2bc5.pdf",
+    "scrip_cd": 532541
+  },
+  {
+    "Scrip_Name": "Coforge Ltd",
+    "INDUSTRY": "Computers - Software & Consulting",
+    "scrip_id": "COFORGE",
+    "Mktcap": "25557.30",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/975e9314-b1d3-4653-bf40-ff6118cfbd39.pdf",
+    "scrip_cd": 532541
+  },
+  {
+    "Scrip_Name": "DWARIKESH SUGAR INDUSTRIES LTD.",
+    "INDUSTRY": "Sugar",
+    "scrip_id": "DWARKESH",
+    "Mktcap": "1725.78",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/52dfe1c0-03e4-46ad-a308-e98470075e35.pdf",
+    "scrip_cd": 532610
+  },
+  {
+    "Scrip_Name": "DWARIKESH SUGAR INDUSTRIES LTD.",
+    "INDUSTRY": "Sugar",
+    "scrip_id": "DWARKESH",
+    "Mktcap": "1725.78",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/97cb20c3-d9b1-4121-b01a-12c5cfcfbc80.pdf",
+    "scrip_cd": 532610
+  },
+  {
+    "Scrip_Name": "DWARIKESH SUGAR INDUSTRIES LTD.",
+    "INDUSTRY": "Sugar",
+    "scrip_id": "DWARKESH",
+    "Mktcap": "1725.78",
+    "ConcallLink": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a72d9577-7aee-41a1-90a9-b78a67a2aa6d.pdf",
+    "scrip_cd": 532610
   }
 ]
