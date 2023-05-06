@@ -34,7 +34,12 @@ $(function () {
     
 })
 function FormatConcallLink(value, row, index) {
-  return "<a target=\"_blank\" href='"+value+"'>"+value+"</a>";
+	av
+	var valueLinks = "";
+	value.split("|||").forEach(v => {
+		valueLinks = valueLinks + "<a target=\"_blank\" href='"+v+"'>"+v+"</a>";
+	});
+	return valueLinks
 }
 function GetLinkToScreener(value, row, index) {
     var link = 'https://www.screener.in/company/' + value ;
@@ -66,6 +71,3 @@ function runningFormatter(value, row, index) {
 		    <tbody></tbody>
 		</table>
 </div>
-<hr />
-</body>
-</html>
