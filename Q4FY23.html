@@ -41,6 +41,9 @@ function GetLinkToScreener(value, row, index) {
     var showLink = 'https://www.screener.in/company/' + row.scrip_id ;
   return "<a target=\"_blank\" href="+link+">"+showLink+"</a>";
 }
+function runningFormatter(value, row, index) {
+    return 1+index;
+}
 </script>
 <br>
 <h2 style="text-align: center;">Q4FY23 EARNINGS CALL TRANSCRIPTS FOR BSE LISTED EQUITIES </h2>
@@ -52,7 +55,8 @@ function GetLinkToScreener(value, row, index) {
 		<table  data-sort-name="priority" class="table table-bordered  table-hover col-lg-11 container-fluid" data-sort-order="asc" data-search="true" id="table" >
 		    <thead   class="thead-color">
 		    <tr >
-		        <th class=" " data-width="75"  data-field="Scrip_Name" data-sortable="true">Company Name</th>  
+		    	<th data-width="75" data-formatter="runningFormatter">Index</th>
+		        <th class="25" data-width="75"  data-field="Scrip_Name" data-sortable="true">Company Name</th>  
 		        <th class=" " data-width="125"  data-field="Mktcap" data-sortable="true">MarketCap in Cr</th>  
 		        <th class=" " data-width="75"  data-field="INDUSTRY" data-sortable="true">Industry</th>
 		        <th class="	" data-width="250"  data-field="scrip_cd" data-sortable="true" data-formatter="GetLinkToScreener" >Screener</th> 
