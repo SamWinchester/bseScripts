@@ -48,6 +48,11 @@
 	function runningFormatter(value, row, index) {
 	    return 1+index;
 	}
+	function annDate(value, row, index) {
+		var date = value.split('T');
+
+	    return '<p>'+date[0]+'<br /> '+date[1]+'</p>';
+	}
 	</script>
 	<br>
 	<h2 style="text-align: center;">Q4FY23 EARNINGS CALL TRANSCRIPTS FOR BSE LISTED EQUITIES </h2>
@@ -60,7 +65,7 @@
 			    <thead   class="thead-color">
 			    <tr >
 			    	<th data-width="10" data-formatter="runningFormatter">Index</th>
-			    	<th class="" data-width="15"  data-field="NEWS_DT" data-sortable="true">Announcement Date</th>
+			    	<th class="" data-width="10"  data-field="NEWS_DT" data-formatter="annDate" data-sortable="true">Announcement Date</th>
 			        <th class="" data-width="50"  data-field="Scrip_Name" data-sortable="true">Company Name</th>  
 			        <th class=" " data-width="50"  data-field="Mktcap" data-sortable="true">MarketCap(Cr)</th>  
 			        <th class=" " data-width="200"  data-field="INDUSTRY" data-sortable="true">Industry</th>
