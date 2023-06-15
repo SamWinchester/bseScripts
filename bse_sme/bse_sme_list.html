@@ -33,41 +33,46 @@
       });
       
   })
-	function FormatConcallLink(value, row, index) {
-		var valueLinks = "";
-		value.forEach(v => {
-			valueLinks = valueLinks + "<a target=\"_blank\" href='"+v['LINK']+"'>"+v['ANN_TITLE']+"</a><br />";
-		});
-		return valueLinks
-	}
-	function GetLinkToScreener(value, row, index) {
-	  return "<a target=\"_blank\" href="+value+">"+value+"</a>";
-	}
-	function runningFormatter(value, row, index) {
-	    return 1+index;
-	}
-	function annDate(value, row, index) {
-		var date = value.split('T');
+  function FormatConcallLink(value, row, index) {
+    var valueLinks = "";
+    value.forEach(v => {
+      valueLinks = valueLinks + "<a target=\"_blank\" href='"+v['LINK']+"'>"+v['ANN_TITLE']+"</a><br />";
+    });
+    return valueLinks
+  }
+  function GetLinkToScreener(value, row, index) {
+      var link = 'https://www.screener.in/company/' + value ;
+      var showLink = 'https://www.screener.in/company/' + row.scrip_id ;
+    return "<a target=\"_blank\" href="+link+">"+showLink+"</a>";
+  }
+  function runningFormatter(value, row, index) {
+      return 1+index;
+  }
+  function annDate(value, row, index) {
+    var date = value.split('T');
 
-	    return '<p>'+date[0]+'<br /> '+date[1]+'</p>';
-	}
-	</script>
-	<br>
-	<h2 style="text-align: center;">Q4FY23 EARNINGS CALL TRANSCRIPTS FOR BSE LISTED EQUITIES </h2>
-	<div  style="position:fixed; margin: -30px 20px; z-index: 100;">
-	    <a  href="https://twitter.com/keta9grko?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @keta9grko</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-	</div>
-	<div class=" col-centered  ">
+      return '<p>'+date[0]+'<br /> '+date[1]+'</p>';
+  }
+  </script>
+  <br>
+  <h2 style="text-align: center;">Q4FY23 EARNINGS CALL TRANSCRIPTS FOR BSE LISTED EQUITIES </h2>
+  <div  style="position:fixed; margin: -30px 20px; z-index: 100;">
+      <a  href="https://twitter.com/keta9grko?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @keta9grko</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+  <div class=" col-centered  ">
 
-			<table  data-sort-name="priority" class="table table-bordered  table-hover col-lg-11 container-fluid" data-sort-order="asc" data-search="true" id="table" >
-			    <thead   class="thead-color">
-			    <tr >
-			    	<th data-width="10" data-formatter="runningFormatter">Index</th>
-            <th class="" data-width="10"  data-field="marketCap" data-sortable="true">marketCap</th> 
-			    	<th class="" data-width="10"  data-field="Scrip_Name" data-sortable="true">Scrip_Name</th> 
-			        <th class="	" data-width="200"  data-field="screener" data-sortable="true" data-formatter="GetLinkToScreener" >Screener</th> 
-			    </tr>
-			    </thead>
-			    <tbody></tbody>
-			</table>
-	</div>
+      <table  data-sort-name="priority" class="table table-bordered  table-hover col-lg-11 container-fluid" data-sort-order="asc" data-search="true" id="table" >
+          <thead   class="thead-color">
+          <tr >
+            <th data-width="10" data-formatter="runningFormatter">Index</th>
+            <th class="" data-width="10"  data-field="NEWS_DT" data-formatter="annDate" data-sortable="true">Announcement <br/> Date</th>
+              <th class="" data-width="50"  data-field="Scrip_Name" data-sortable="true">Company Name</th>  
+              <th class=" " data-width="50"  data-field="Mktcap" data-sortable="true">MarketCap(Cr)</th>  
+              <th class=" " data-width="200"  data-field="INDUSTRY" data-sortable="true">Industry</th>
+              <th class=" " data-width="200"  data-field="scrip_cd" data-sortable="true" data-formatter="GetLinkToScreener" >Screener</th> 
+              <th class=" " data-width="500"  data-field="ConcallLink" data-formatter="FormatConcallLink" >Concall Link</th>
+          </tr>
+          </thead>
+          <tbody></tbody>
+      </table>
+  </div>
