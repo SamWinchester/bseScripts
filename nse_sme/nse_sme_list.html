@@ -35,6 +35,8 @@
   })
   function FormatConcallLink(value, row, index) {
     var valueLinks = "";
+    if(value === null)
+      return '';
     value.forEach(v => {
       valueLinks = valueLinks + "<a target=\"_blank\" href='"+v['LINK']+"'>"+v['ANN_TITLE']+"</a><br />";
     });
