@@ -35,7 +35,7 @@
   })
   function FormatConcallLink(value, row, index) {
     var valueLinks = "";
-    if(value === null)
+    if(value === null|| value === undefined)
       return '';
     value.forEach(v => {
       valueLinks = valueLinks + "<a target=\"_blank\" href='"+v['LINK']+"'>"+v['ANN_TITLE']+"</a><br />";
@@ -72,7 +72,7 @@
               <th class=" " data-width="50"  data-field="MarketCap" data-sortable="true">MarketCap(Cr)</th>  
               <th class=" " data-width="200"  data-field="INDUSTRY" data-sortable="true">Industry</th>
               <th class=" " data-width="200"  data-field="symbol" data-sortable="true" data-formatter="GetLinkToScreener" >Screener</th> 
-              <th class=" " data-width="500"  data-field="attchmntFile" data-formatter="FormatConcallLink" >ANN Link</th>
+              <th class=" " data-width="500"  data-field="AnnLink" data-formatter="FormatConcallLink" >Announcement Link</th>
           </tr>
           </thead>
           <tbody></tbody>
