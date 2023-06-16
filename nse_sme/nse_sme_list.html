@@ -55,6 +55,9 @@
 
       return '<p>'+date[0]+'<br /> '+date[1]+'</p>';
   }
+  function beautifyMarketCap(value, row, index) {
+    return Math.floor(value)
+  }  
   </script>
   <br>
   <h2 style="text-align: center;">SME NSE LIST</h2>
@@ -69,7 +72,7 @@
             <th data-width="10" data-formatter="runningFormatter">Index</th>
             <th class="" data-width="10"  data-field="an_dt" data-sortable="true">Announcement <br/> Date</th>
               <th class="" data-width="50"  data-field="NAME" data-sortable="true">Company Name</th>  
-              <th class=" " data-width="50"  data-field="MarketCap" data-sortable="true">MarketCap(Cr)</th>  
+              <th class=" " data-width="50"  data-field="MarketCap" data-formatter="beautifyMarketCap"data-sortable="true">MarketCap(Cr)</th>  
               <th class=" " data-width="200"  data-field="INDUSTRY" data-sortable="true">Industry</th>
               <th class=" " data-width="200"  data-field="symbol" data-sortable="true" data-formatter="GetLinkToScreener" >Screener</th> 
               <th class=" " data-width="500"  data-field="AnnLink" data-formatter="FormatConcallLink" >Announcement Link</th>
